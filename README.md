@@ -21,8 +21,9 @@ https://support.microsoft.com/en-us/office/how-to-avoid-broken-formulas-8309381d
 2. December would be the worst month to launch as they had more failed/canceled than successful. 
 
 - What can you conclude about the Outcomes based on Goals?
-If you are wanting to maximize your success rate then you should keep the goals less that $5000.
+1. If you are wanting to maximize your success rate then you should keep the goals less that $5000.
 - What are some limitations of this dataset?
-A couple of things that could limit this dataset are upcoming kickstarts that are desirable to fund. Another could be that in a kickstarter when making a donation you are limited of how much you can give.
+1. A couple of things that could limit this dataset are upcoming kickstarts that are desirable to fund. 
+2.Another could be that in a kickstarter when making a donation you are limited of how much you can give.
 - What are some other possible tables and/or graphs that we could create?
-Another great option to the the percentage of success rate would have been to use a pie chart.
+1. Another great option to the the percentage of success rate would have been to use a pie chart.
